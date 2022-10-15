@@ -29,7 +29,7 @@ Layout practice (without adaptation).
 
 ## Demo
 
-[https://mudaston.github.io/Boost-up-business](https://mudaston.github.io/Boost-up-business/)
+[mudaston.github.io/Boost-up-business](https://mudaston.github.io/Boost-up-business/)
 
 <br/>
 
